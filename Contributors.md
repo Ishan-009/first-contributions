@@ -1,6 +1,7 @@
-*# Contributors*
+_# Contributors_
 
 !-- prettier-ignore-start -->
+
 - [Thura Hein](https://github.com/thurahein123)
 
 * [Mark Tu](https://github.com/MarksTheme)
@@ -41,9 +42,7 @@
 - [leohchoi](https://github.com/leohchoi)
 - [OmriOn] (https://github.com/OmriOn)
 - water
-- [Aakash Rajbhar](https://github.com/Aakash-Rajbhar)
--[Remil cv](https://github.com/remilvelayudhan)
--[Anurag](https://github.com/dot-D69)
+- [Aakash Rajbhar](https://github.com/Aakash-Rajbhar) -[Remil cv](https://github.com/remilvelayudhan) -[Anurag](https://github.com/dot-D69)
 - [Alvin Escobar](https://github.com/GitAlvinLine)
 - [Pavlos Orfanidis](https://github.com/porfanid)
 - [Deepak](https://github.com/ldpacl)
@@ -55,7 +54,7 @@
 - [Metcalfe](https://github.com/MetcalfeWal)
 - [devsaga22](https://github.com/devsaga22)
 - [Shuaibu Abdulkadir](https://github.com/shuaibu222)
-Franco Lai
+  Franco Lai
 - [Dewald](https://github.com/HaloBoss777)
 - [Balaji Jegadeesh](https://github.com/Vbj1808)
 - [guillemboada](https://github.com/guillemboada)
@@ -68,7 +67,7 @@ Franco Lai
 - [Adekilekun Abdullahi](https://github.com/adekilekunabdullahi)
 - [Harish Kumar](https://github.com/harivasista)
 - [Chavis00] (https://github.com/Chavis00)👁️
-- [Ripa] (https://github.com/riparuk) 
+- [Ripa] (https://github.com/riparuk)
 - [aleisgoood] (https://github.com/aleisgoood)
 - [kyrill belomenov](https://github.com/kybe236)
 - [Manzil Shrestha](https://github.com/777Mnzl)
@@ -816,6 +815,7 @@ Franco Lai
 - [AlexRussss]
   Subhajit Bera
 - [Shaikh Soheil](https://github.com/soheilsheikh)
+
 # mansi :)
 
 -[Prayrit Srivastava](https://github.com/prayrit-srivastava)
@@ -4966,7 +4966,7 @@ Franco Lai
 - [temidayo omoyajowo](https://github.com/temideewan)
 - [Harold Song](https://github.com/swyhrld)
 - [foliage21](https://github.com/foliage21)
-- [alkas](https://github.com/exalkas "software engineer")
+- [alkas](https://github.com/exalkas 'software engineer')
 - [Arun Kumar Marndi](https://github.com/arunkumarmarndi)
 - [Zullu Balti](https://github.com/ZulluBalti)
 - [Jordan Flanagan](https://github.com/jflaney23)
@@ -6738,8 +6738,8 @@ Aadi Deshmukh
 - [Ali Shata](https://github.com/alishata128)
 - [Jay Thalluri](https://github.com/JThalluri)
 - [Jitendra Jaria](https://github.com/jitendrajaria)
-- [Matthew Reeve](https://github.com/mreeve "software engineer")
-- [Ralph Bido](https://github.com/ralphbido89 "WGU")
+- [Matthew Reeve](https://github.com/mreeve 'software engineer')
+- [Ralph Bido](https://github.com/ralphbido89 'WGU')
 - [hjliag](https://github.com/hjliag)
 - [tonymendes](https://github.com/TonyMendes)
 - [kirans0325](https://github.com/kirans0325)
@@ -6753,7 +6753,7 @@ Aadi Deshmukh
 - [Yaser Syed](https://github.com/yasersyed)
 - [Amreet Khuntia](https://github.com/AmreetKumarkhuntia)
 - [Shrihari Magar](https://github.com/EternoSeeker)
-- [Abhishek Srinivasan](https://github.com/iamabhshk "Software Engineer")
+- [Abhishek Srinivasan](https://github.com/iamabhshk 'Software Engineer')
 - [Karol Mądraszek](https://github.com/KarolMadraszek)
 - [Yuvraj](https://github.com/Yuvraj-26)
 - [Rishabh](https://github.com/rishn1920)
@@ -6761,7 +6761,7 @@ Aadi Deshmukh
 - [Mahmut Ekrem Acar](https://github.com/Mahmutekremacar)
 - [Carlos Pena](https://github.com/solracdelsol)
 - [Michael Smit](https://github.com/smitjuuh)
-- [Catalino Rodriguez aka CRod](https://github.com/RodCato "Software Engineer")
+- [Catalino Rodriguez aka CRod](https://github.com/RodCato 'Software Engineer')
 - [Muhammad Moazzam](https://github.com/webdesign4ever)
 - [Anand Yadav](https://github.com/anandryadav)
 - [Cesare Ryan](https://github.com/r6047736)
@@ -6924,3 +6924,4 @@ Aadi Deshmukh
 - [Prashant Singh](https://github.com/prashant5025)
 - [Tristan Bierig](https://github.com/TristanBierig)
 - [Baptiste Crepin](https://github.com/Baptiste-Crepin)
+- [Ishan M](https://github.com/Ishan-009)
